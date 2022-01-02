@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+
+    display: inline;
+    text-align: center;
+    text-transform: capitalize;
+    border: 1px solid gray;
+    position: absolute;
+    top: 20px;
+    left: 38%;
+    padding: 10px;
+    border-radius: 4px;
+    transition: 0.1s;
+}
+h1:hover{
+    box-shadow: 6px 8px 5px rgb(168, 157, 157);
+    cursor: pointer;
+    top: 15px;
+}
+
+
+.left-container{
+    width: 400px;
+    background-color: rgb(192, 179, 179);
+    border: 1px solid gray;
+    margin: 150px 60px;
+    float: left;
+}
+.right-container{
+    width: 400px;
+    background-color: rgb(192, 179, 179);
+    border: 1px solid gray;
+    margin: 150px 60px;
+    float: left;
+}
+
+
+.first-div{
+    width: 360px;
+    border: 1px solid gray;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 15px;
+    font-size: 25px;
+    background-color: #B7DFA0;
+}
+
+.second-div{
+    width: 140px;
+    border: 1px solid gray;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    background-color: #FFCBC3;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 450px;
+    padding-top: 190px;
+    float: left;
+
+}
+
+.third-div{
+    float: left;
+    width: 200px;
+    border: 1px solid gray;
+    color: black;
+    text-align: center;
+    background-color: #FCECA1;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 450px;
+    padding: 0px 12px;
+    padding-top: 10px;
+    font-size: 20px;
+
+
+}
+
+
+.clear-div{
+    clear: both;
+}
+
+
+.third-one , .third-two , .third-three{
+    background-color: #B7B8BC;
+    border: 1px solid black;
+    text-align: center;
+    font: 20px;
+    padding: 40px 3px;
+    margin-top: 25px;
+}
+footer{
+
+    width: 360px;
+    border: 1px solid gray;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 25px;
+    background-color: #FFCBC3;
+}
+
+
+.clear-div{
+    clear: both;
+}

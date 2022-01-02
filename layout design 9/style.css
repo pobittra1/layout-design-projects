@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    position: relative;
+
+}
+
+
+.container{
+    width: 360px;
+    margin: 0 auto;
+    position: absolute;
+    top: 280px;
+    left: 300px;
+
+}
+
+
+.header1{
+    border: 2px solid black;
+    width: 100%;
+    padding: 4px 3px;
+
+}
+
+
+nav{
+    width: 90%;
+    margin: 5px auto;
+    padding: 3px 4px;
+    border: 2px solid black;
+    
+
+}
+
+.section1{
+    border: 2px solid black;
+    width: 200px;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 3px 4px;
+    padding-bottom: 40px;
+    float: left;
+
+}
+
+.article1{
+    border: 2px solid black;
+    padding-left: 4px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.header2 , .section2 , .footer1{
+    width: 85%;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 15px;
+    padding: 4px 3px;
+
+}
+.section3{
+    float: left;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 150px;
+    font-size: 20px;
+    padding: 4px 5px;
+
+}
+
+.clear-div{
+    clear: both;
+}
+
+
+.section4 , .section5 , .section6{
+    border: 2px solid black;
+    width: 85%;
+    margin-top: 9px;
+    margin-left: 10px;
+    height: 72px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+}
+
+.footer2{
+    border: 2px solid black;
+    width: 100%;
+    padding: 6px 5px;
+    margin-top: 10px;
+    font-size: 20px;
+}

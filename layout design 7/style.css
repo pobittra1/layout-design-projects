@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+.container{
+    background-color: #fff;
+    border: 1px solid gray;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+
+.first-div{
+    width: 360px;
+    border: 1px solid gray;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 15px;
+    font-size: 25px;
+    background-color: #FFCBC3;
+    border-radius: 5px;
+
+}
+
+.second-div{
+    width: 140px;
+    border: 1px solid gray;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    background-color: #FFCBC3;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top: 5px;
+    height: 450px;
+    float: left;
+    border-radius: 5px;
+
+}
+
+.third-div{
+    float: left;
+    width: 200px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 450px;
+    padding: 0px 12px;
+    padding-top: 10px;
+    font-size: 20px;
+
+
+}
+
+
+.clear-div{
+    clear: both;
+}
+
+
+.third-one , .third-two , .third-three{
+    background-color: #FFCBC3;
+    border: 1px solid black;
+    text-align: center;
+    font: 20px;
+    padding: 56px 3px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+
+footer{
+
+    width: 360px;
+    border: 1px solid gray;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 25px;
+    background-color: #FFCBC3;
+    border-radius: 5px;
+
+}
